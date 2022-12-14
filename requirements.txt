@@ -1,0 +1,3 @@
+# install these using
+# 
+# pip install --upgrade -r requirements.txt --target .
